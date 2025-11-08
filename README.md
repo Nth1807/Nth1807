@@ -18,13 +18,18 @@ I am currently a Network Engineer. My work mainly involves computer networks, sy
 
 ## 🕸️ Network Model
 
-<p align="center">
-  <a href="TwoLayerNetworkModel.drawio.png](https://github.com/Nth1807/DrawIO/blob/7fc8fe9965a21c4d227a87b97bb7a2170cabf085/TwoLayerNetworkModel.drawio.png">
+<p align="center" style="position: relative;">
+  <a href="TwoLayerNetworkModel.drawio.png">
     <img 
       src="TwoLayerNetworkModel.drawio.png" 
       alt="Network Diagram" 
-      width="800" 
+      width="800"
       style="border-radius: 12px; border: 2px solid #ddd; background: #fff; box-shadow: 0 0 12px rgba(0,0,0,0.1);"
     />
   </a>
+  <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg" 
+      width="90"
+      style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); opacity: 0.7;"
+  />
 </p>
