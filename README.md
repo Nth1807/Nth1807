@@ -29,8 +29,8 @@ I am currently a Network Engineer. My work mainly involves computer networks, sy
         <small style="color: #666;">Network Core + Access Layer</small>
       </td>
       <td align="center" style="padding: 15px;">
-        <a href="ThreeLayerNetworkModel.drawio.png">
-          <img src="ThreeLayerNetworkModel.drawio.png" width="320" height="180" style="border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.15);" />
+        <a href="TwoLayer.drawio.png">
+          <img src="TwoLayer.drawio.png" width="320" height="180" style="border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.15);" />
         </a><br>
         <b>Three-Layer Network Model</b><br>
         <small style="color: #666;">Core, Distribution, Access</small>
