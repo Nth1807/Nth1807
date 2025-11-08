@@ -17,4 +17,5 @@ I am currently a Network Engineer. My work mainly involves computer networks, sy
 
 
 ## 🕸️ Two-Layer Network Model
-<object type="image/svg+xml" data="TwoLayerNetworkModel.drawio.png"></object>
+
+<object type="image/svg+xml+png" data="TwoLayerNetworkModel.drawio.png"></object>
