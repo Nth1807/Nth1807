@@ -16,9 +16,15 @@ I am currently a Network Engineer. My work mainly involves computer networks, sy
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nth1807/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/conmeokeugaugauu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nthung1807/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CatNework) 
 
 
-## 🕸️ Two-Layer Network Model
+## 🕸️ Network Model
 
 <p align="center">
-  <img src="TwoLayerNetworkModel.drawio.png" alt="Network Diagram" width="700">
+  <a href="TwoLayerNetworkModel.drawio.png](https://github.com/Nth1807/DrawIO/blob/7fc8fe9965a21c4d227a87b97bb7a2170cabf085/TwoLayerNetworkModel.drawio.png">
+    <img 
+      src="TwoLayerNetworkModel.drawio.png" 
+      alt="Network Diagram" 
+      width="800" 
+      style="border-radius: 12px; border: 2px solid #ddd; background: #fff; box-shadow: 0 0 12px rgba(0,0,0,0.1);"
+    />
+  </a>
 </p>
-
