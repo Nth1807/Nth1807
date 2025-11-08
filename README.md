@@ -18,4 +18,4 @@ I am currently a Network Engineer. My work mainly involves computer networks, sy
 
 ## 🕸️ Two-Layer Network Model
 
-![Network Diagram](/DrawIO/TwoLayerNetworkModel.drawio.png)
+![Network Diagram](TwoLayerNetworkModel.drawio.png)
