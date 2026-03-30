@@ -6,11 +6,13 @@
 
 🚀 Network Engineer | Network Automation | IT Enthusiast
 
-I specialize in building automation tools for network infrastructure, helping reduce manual work and improve system reliability.
+
 
 📫 Contact
 💼 LinkedIn: (in/nthung1807/)
+
 📧 Email: (nthno11807@gmail.com)
+
 🌐 Portfolio: (optional)
 
 
