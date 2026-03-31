@@ -4,7 +4,7 @@
 
 ## 👋 Hi, I'm Hung Nguyen
 
-🚀 Network Engineer | Network Automation | IT Enthusiast
+🚀 IT Enthusiast
 
 
 
