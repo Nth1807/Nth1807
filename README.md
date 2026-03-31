@@ -9,11 +9,12 @@
 
 
 📫 Contact
+
 💼 LinkedIn: (in/nthung1807/)
 
 📧 Email: (nthno11807@gmail.com)
 
-🌐 Portfolio: (optional)
+🌐 Portfolio: 
 
 
 
